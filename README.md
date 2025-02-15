@@ -16,7 +16,7 @@
 👤 **A fully interactive sidebar that enhances user experience with modern UI elements.**
 
 * Github: [@Shashidhar](https://github.com/Shashidhar)
-* LinkedIn: [@shashidhar nagunuri](https://linkedin.com/in/shashidhar nagunuri)
+* LinkedIn: [@Shashidhar Nagunuri](https://www.linkedin.com/in/shashidhar-nagunuri-23845b324/)
 
 ## Show your support
 
